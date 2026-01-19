@@ -35,7 +35,8 @@ Key performance indicators (KPIs) derived from the dataset:
 | Total Quantity Sold | 1,700 units    | Sales volume across products     |
 
 These KPIs allow stakeholders to quickly understand performance at a glance.
-
+**KPI Snapshot Image:**  
+![KPI Overview](https://github.com/Amaefule5/Sales-Performance-Analysis-Dashboard/blob/main/table.png)
 ---
 
 ## Sales Performance by Time (Monthly Analysis)
