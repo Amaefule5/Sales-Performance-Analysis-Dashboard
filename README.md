@@ -1,6 +1,4 @@
-# Sales Performance Analysis Dashboard – Amaefule Store
-
-### A Data Analytics Project Experience
+# Sales Performance Analysis Dashboard
 
 ---
 
