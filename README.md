@@ -140,7 +140,8 @@ Supports performance management and incentive planning.
 ---
 
 ## Dashboard Design and Visualization
-
+**Dashboard Template Layout**  
+![Dashboard Layout](https://github.com/Amaefule5/Sales-Performance-Analysis-Dashboard/blob/main/3.png)
 Design focused on **clarity, storytelling, and usability**:
 
 * KPIs displayed prominently
