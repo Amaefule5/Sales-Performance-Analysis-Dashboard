@@ -10,6 +10,8 @@ This project analyzes and visualizes the **sales performance of Amaefule Store**
 
 The project features an **interactive sales dashboard** with **summary tables and KPIs** providing a **clear, executive-level view** of sales trends, product performance, city contributions, and sales representative effectiveness.
 
+**Dashboard Overview Image:**  
+![Dashboard Overview](https://github.com/Amaefule5/Sales-Performance-Analysis-Dashboard/blob/main/1.png)
 ---
 
 ## Dataset and Metrics Understanding
